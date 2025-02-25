@@ -73,4 +73,3 @@ This project is an iOS application built using SwiftUI, MapKit, and CloudKit to 
 ## License
 MIT License – Open-source for community use and improvement.
 
-
